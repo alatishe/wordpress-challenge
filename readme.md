@@ -40,8 +40,3 @@ We use `npm` as the canonical task runner for the project. Some of the PHP relat
 - `npm run test` to run both PHP and JS tests without coverage reporting. Use `npm run test:js` and `npm run test:php` to run tests for JS and PHP seperately.
 
 - `npm run test:coverage` to run both PHP and JS tests with coverage reporting.
-
-
-## Continuous Integration
-
-We use [GitHub Actions](https://github.com/features/actions) to lint all code, run tests and report test coverage to [Coveralls](https://coveralls.io) as defined in [`ci.yaml`](.github/workflows/ci.yaml).
