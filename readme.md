@@ -1,7 +1,7 @@
 # Site Counts
 
 [![CI/CD Pipeline](https://github.com/xwp-hiring/coding-challenge/actions/workflows/ci.yaml/badge.svg)](https://github.com/xwp-hiring/coding-challenge/actions/workflows/ci.yaml)
-[![Coverage Status](https://coveralls.io/repos/github/xwp-hiring/coding-challenge/badge.svg?branch=develop)](https://coveralls.io/github/xwp-hiring/coding-challenge?branch=develop)
+[![Coverage Status](https://coveralls.io/repos/github/alatishe/wordpress-challenge/badge.svg?branch=develop)](https://coveralls.io/github/alatishe/wordpress-challenge?branch=develop)
 
 A WordPress block showing counts of posts and taxonomies.
 
