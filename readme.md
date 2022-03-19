@@ -35,8 +35,6 @@ We use `npm` as the canonical task runner for the project. Some of the PHP relat
 
 - `npm run build` to build the plugin JavaScript file. Use `npm run dev` to watch and re-build as you work.
 
-- `npm run lint` to lint both PHP and JS files. Use `npm run lint:js` and `npm run lint:php` to lint JS and PHP separately.
-
 - `npm run test` to run both PHP and JS tests without coverage reporting. Use `npm run test:js` and `npm run test:php` to run tests for JS and PHP seperately.
 
 - `npm run test:coverage` to run both PHP and JS tests with coverage reporting.
